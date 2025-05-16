@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Chouksey</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/XG1uvZVpUjZQ0/giphy.gif" width="40"/>
 </p>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Competitive Programmer</h3>
 
@@ -47,9 +47,8 @@
 ### 🏆 Competitive Programming
 
 <p align="center">
-
   <a href="https://www.codechef.com/users/byte_master" target="_blank">
-    <img src="https://cdn.dribbble.com/users/153580/screenshots/4867562/codechef.gif" width="120" title="CodeChef"/>
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/logo.svg" width="100" title="CodeChef"/>
   </a>
   <a href="https://leetcode.com/u/Aryan_1202/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="120" title="LeetCode"/>
@@ -83,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
 </p>
 
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
