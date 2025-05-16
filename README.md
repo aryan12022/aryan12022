@@ -1,89 +1,65 @@
 <h1 align="center">Hi 👋, I'm Aryan Chouksey</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/XG1uvZVpUjZQ0/giphy.gif" width="40"/>
-</p>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast | Problem Solver </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student+@+IIIT+Bhagalpur;Full+Stack+Developer;Competitive+Programmer;Tech+Mentor+%7C+Workshop+Leader" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="280"/>
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🎓 B.Tech CSE @ IIIT Bhagalpur (2022–2026)  
-- 💻 Passionate about Full Stack Web Development  
-- 🧠 Strong in Data Structures, Algorithms and Problem Solving
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nodejs,express,mongodb,docker,git,vscode" />
-</p>
+### 🧑‍💻 About Me
+- 🎓 B.Tech in Computer Science & Engineering, IIIT Bhagalpur (2022–2026)
+- 🏆 Solved **700+ problems** across Codeforces, Leetcode, and CodeChef
+- ⚡ Fun fact: I love building platforms that **simplify real-world problems**
 
 ---
 
-### 📂 Projects
+### 🚀 Tech Stack
 
-#### 🔗 [Vital-Drops](https://github.com/aryan12022/VitalDrops)
-> A MERN-stack blood bank platform to connect donors and recipients.
-
-- 🔐 JWT Authentication  
-- 🌐 Real-time frontend with Redux  
-- 📦 Inventory & donor management using REST APIs
-
-#### 🔗 [TubeX](https://github.com/aryan12022/Tube-x)
-> A YouTube-inspired backend platform.
-
-- 📹 Upload, like/dislike, comment, and subscribe  
-- 🔐 JWT + bcrypt authentication  
-- ⚙️ Robust backend architecture with Express.js
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🏆 Competitive Programming
+### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://www.codechef.com/users/byte_master" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/logo.svg" width="100" title="CodeChef"/>
-  </a>
-  <a href="https://leetcode.com/u/Aryan_1202/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="120" title="LeetCode"/>
-  </a>
-</p>
+#### 🩸 Vital-Drops [MERN Stack]
+A full-stack blood bank platform for connecting donors and recipients.
+- 🔐 JWT Auth | 🔁 Redux | 🌐 RESTful APIs  
+- 🛠️ [View Repository](https://github.com/aryan12022/VitalDrops)
 
-- 🏅 Codeforces Max Rating: **1208** ([@aryan_1202](https://codeforces.com/profile/aryan_1202))  
-- 🥈 CodeChef Max Rating: **1613 (3★)** ([@byte_master](https://www.codechef.com/users/byte_master))  
-- 🔥 Solved **700+ problems** across CP platforms  
-- 🏆 Top 5 @ Smart India Internal Hackathon  
+#### 🎥 TubeX [Node.js + MongoDB]
+A YouTube-inspired video platform with authentication and engagement features.
+- 🔒 Secure login, comment system, subscriptions  
+- 🛠️ [View Repository](https://github.com/aryan12022/Tube-x)
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan12022&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan12022&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+- ⭐ Codeforces Max Rating: **1208 Pupil**  
+- 🌟 CodeChef Max Rating: **1613 (3⭐)**  
+- 🧠 Top 5 Finish – Smart India Internal Hackathon  
+- 🧩 700+ DSA Problems Solved  
 
 ---
 
-### 🌐 Connect With Me
+### 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:choukseyaryan49@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aryan-chouksey-808483248/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/aryan12022"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-chouksey-808483248/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/aryan12022)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:choukseyaryan49@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
+  <img src="https://komarev.com/ghpvc/?username=aryan12022&label=Profile%20views&color=0e75b6&style=flat" alt="aryan12022" />
 </p>
-
-<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
 
