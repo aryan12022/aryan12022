@@ -14,8 +14,7 @@
 
 - 🎓 B.Tech CSE @ IIIT Bhagalpur (2022–2026)  
 - 💻 Passionate about Full Stack Web Development  
-- 🧠 Strong in Data Structures, Algorithms, and System Design  
-- 👨‍🏫 Club Lead @ PyC Coding Club, IIIT Bhagalpur  
+- 🧠 Strong in Data Structures, Algorithms and Problem Solving
 
 ---
 
